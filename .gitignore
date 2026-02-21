@@ -1,0 +1,14 @@
+.env
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.pytest_cache/
+chroma_db/
+data/
+*.pdf
+*.mp4
+*.txt
+.DS_Store
+Thumbs.db

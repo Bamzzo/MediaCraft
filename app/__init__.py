@@ -1,0 +1,1 @@
+# ByteCreator Copilot - app package
